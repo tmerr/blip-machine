@@ -40,7 +40,7 @@ pjump End 1
 lbl End
 ```
 
-You can fork/jump probabilistically by changing the second argument from 1 to something lower. In fact that's all there is to it. The full list of instructions are:
+You can fork/jump probabilistically by changing the second argument from 1 to something lower. In fact that's all there is to it. The full list of instructions is:
 
 ```
 lbl x
